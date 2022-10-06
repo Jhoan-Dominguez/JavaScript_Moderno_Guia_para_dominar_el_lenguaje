@@ -1,1 +1,1 @@
-# JavaScript_Moderno_Gu-a_para_dominar_el_lenguaje
+# JavaScript_Moderno_Guia_para_dominar_el_lenguaje
